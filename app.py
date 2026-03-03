@@ -667,4 +667,4 @@ def admin_logout():
 if __name__ == "__main__":
     app.run()
 
-app = Flask(__name__)
+# app = Flask(__name__)
